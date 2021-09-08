@@ -14,7 +14,7 @@ export default function Footer() {
       </a>{" "}
       by Joyce O. Olusegun and{" "}
       <a
-        href="https://friendly-lumiere-55b3f9.netlify.app"
+        href="https://heuristic-hugle-66f126.netlify.app/"
         target="_blank"
         rel="noreferrer"
         className="source"

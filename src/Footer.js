@@ -5,8 +5,9 @@ export default function Footer() {
   return (
     <small className="source-site">
       <a
-        href="https://github.com/Jolusegun/Weather-App"
+        href="https://github.com/Jolusegun/simple-weather-react"
         target="_blank"
+        rel="noreferrer"
         className="source"
       >
         Open-sourced on GitHub
@@ -15,6 +16,7 @@ export default function Footer() {
       <a
         href="https://friendly-lumiere-55b3f9.netlify.app"
         target="_blank"
+        rel="noreferrer"
         className="source"
       >
         hosted on Netlify
